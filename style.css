@@ -146,8 +146,8 @@ video h1{
     width: 700px;
     bottom: 0;
     /* width: 60%; */
-    width: 60%;
-    left: 348px;
+    width: 87%;
+    left: 160px;
     top: 30vh;
     font-size: 23px;
 
@@ -157,10 +157,11 @@ video h1{
 position: relative;
 top: 100px;
 bottom:0;
-width: 33%;
-    left: 479px;
-    top: 35vh;
+width: 62%;
+left: 376px;
+top: 35vh;
 font-size: 23px;
+
 
 }
 .btns1{
