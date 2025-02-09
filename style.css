@@ -172,7 +172,7 @@ font-size: 23px;
     left: 479px;
     height: 42px;
     width: 116px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     border-radius: 5px;
     background: #FFE535;
 
@@ -186,7 +186,7 @@ font-size: 23px;
     left: 631px;
     height: 42px;
     width: 149px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     border-radius: 5px;
     background: #6C859514;
 
@@ -217,6 +217,6 @@ font-size: 23px;
 }
 .banner>img{
     height: 1014px;
-    width: 5053px;
+    width: 1257px
 
 }
